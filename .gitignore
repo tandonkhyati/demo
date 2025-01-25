@@ -38,5 +38,5 @@ build/
 .DS_Store
 
 ### Ignore files ###
-src/main/java/org/practice/model/Employee.java
-src/main/java/org/practice/service
+#src/main/java/org/practice/model/Employee.java
+#src/main/java/org/practice/service
